@@ -1,0 +1,32 @@
+CSS quiz 04 July 2018
+
+1. A
+2. B.
+3. A
+4. C.
+5. A.
+6. B.
+7. b.
+8. A.
+9. c.
+10. D.
+11. D.
+12. C.
+13. D.
+14. B.
+15. C.	
+16. 
+
+selector: a, h1
+Declaration: font-weight:bold; color:grey
+Property name: font-weight; color
+Property value: bold;grey
+Declaration block: a, h1 {font-weight:bold; color:grey}
+
+17. 
+
+a. 3
+b. 110
+c. 12
+d. 201
+e. 14

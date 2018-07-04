@@ -1,0 +1,53 @@
+Roy Caesar B. Fredeluces	03 July 2018	
+
+1. d.   C
+2. c.	C
+3. d.	C
+4. a. 	W
+5. b.	C
+6. c.	C
+7. b.	C
+8. a.	C
+9. b. 	C
+10. b. 	B
+11. b. 	C
+12. a.	C
+13. d. 	C
+14. c. 	C
+15. b. 	C
+16. c. 	C
+17. b.	W/B A
+18. b.	C
+19. a.	W B
+20. b.	C
+21. d.	C
+22. d. 	C
+23. a.	C
+24. b.	C
+25. c.	C
+26. d.	C
+27. a.	W B
+28. b.	C
+29. a.	W 
+30. b.	C
+31. d.	C
+32. c.	C
+33. c.	C
+34. a.	C
+35. d.	C
+36. 
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title></title>
+	</head>
+
+	<body>
+
+
+	</body>
+
+
+</html>
