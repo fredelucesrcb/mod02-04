@@ -1,0 +1,112 @@
+
+/*Universal Selector*/
+* {
+	font-weight: 700;
+}
+
+
+/*type selector*/
+h1 {
+	letter-spacing: 0.75em;
+	text-align: center;
+}
+/*id selector*/
+#id{ color:red;
+ }\
+
+ /*class selector*/
+
+ .middle{
+ 	font-size:2em;
+ }
+
+ /*attribute selector*/
+
+ a[target] {
+ 	text-decoration:none;
+ }
+
+ /*adjacent sibling selector*/
+
+ div+h2 {
+ 	background-color:red;
+ }
+
+ h2+p {
+ 	background-color: pink;
+ } 
+
+ /*general sibling selector*/
+
+ #general ~ a{
+ 	font-size: 5em;
+ }
+
+ /*child selector*/
+
+#ex>p{
+	text-align: center; color:green;
+}
+
+
+/*descendant selector*/
+
+ul ol {
+	color:blue;
+	letter-spacing: 3em;
+}
+
+/*pseudo link*/
+
+a:link {
+	color:red;
+}
+
+/*pseudo visited*/
+
+a:visited{
+	color:white;
+}
+
+input:focus{
+	background-color:yellow;
+}
+
+.square{
+	height:100px;
+	width: 100px;
+	background-color: grey
+}
+
+/*pseudo hover*/
+
+.square:hover{
+	background-color: yellow;
+}
+
+a:hover {
+	color: green;
+}
+
+button{
+	width:300px;
+	height:100px;
+	background-color: red;
+}
+
+button:active{
+	background-color: blue;
+	color:white;
+}
+
+h1, .square, #ex{
+	background-color:pink;
+}
+
+h3{
+	color: orange}
+
+#value{
+
+	color:magenta;
+}
